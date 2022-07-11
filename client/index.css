@@ -1,0 +1,14 @@
+
+
+#quoteInput {
+    width: 400px;
+    height: 400px;
+}
+
+/* input[type="quote"].big-dog::-webkit-input-placeholder {
+    color: orange;
+} */
+
+#quoteBox {
+    position: inherit;
+}
